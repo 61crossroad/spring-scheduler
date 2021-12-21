@@ -1,0 +1,5 @@
+custom:
+  cache:
+    name: jobStatus
+    key: default
+  filename: jobs.csv
